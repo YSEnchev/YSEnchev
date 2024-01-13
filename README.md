@@ -41,4 +41,6 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
+[![Run Action](https://github-action-button.web.app/buttons/simple.svg?name=Deploy%20Action%20Button&eventType=deploy&type=simple&action=dispatch)](https://github-action-button.web.app/repos/YSEnchev/action-button/button?name=Deploy%20Action%20Button&eventType=deploy&type=simple&action=dispatch)
+
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
