@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JAVA Web Developer student
 --------------------------
 
-I am an ambitious person with a desire to develop in the field of software engineering. I specialize in SoftUni academy for JAVA web developer.
+I am an ambitious person with a desire to develop in the field of software engineering. I specialize in SoftUni academy for web developer.
 
 * 🌍  I'm based in Sofia
 * ✉️  You can contact me at [ysenchev.soft@gmail.com](mailto:ysenchev.soft@gmail.com)
-* 🧠  I'm learning Java Advanced and Java OOP
-* 🤝  I'm open to collaborating on Interesting projects with java.
+* 🧠  I'm learning Java, JavaScript, HTML and CSS
+* 🤝  I'm open to collaborating on Interesting projects.
 
 <a href="https://www.github.com/YSEnchev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -21,6 +21,7 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
+
 
 
 ### Socials
