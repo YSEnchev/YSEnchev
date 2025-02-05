@@ -20,6 +20,7 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 </p>
 
 
