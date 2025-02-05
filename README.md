@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 <a href="https://www.hackerrank.com/ysenchev_soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysenchev_soft" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 <a href="https://codepen.io/ysenchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ysenchev" height="30" width="40" /></a>
-<a href="https://profile.w3schools.com/YSEchev"><img align="center" src="https://avatars.githubusercontent.com/u/77673807?v=4" alt="yordan enchev" height="30" width="0" /></a>
+<a href="https://profile.w3schools.com/YSEchev"><img align="center" src="https://avatars.githubusercontent.com/u/77673807?v=4" alt="yordan enchev" height="30" width="30" /></a>
 </p>
 
 ### Badges
@@ -54,3 +54,4 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysenchev&label=Profile%20views&color=0e75b6&style=flat" alt="ysenchev" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysenchev" alt="ysenchev" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+3
