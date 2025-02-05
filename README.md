@@ -15,10 +15,6 @@ I am an ambitious person with a desire to develop in the field of software engin
 src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 ### Skills
 
 
