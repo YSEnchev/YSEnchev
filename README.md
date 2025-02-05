@@ -32,10 +32,11 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 ### Socials
 
 <p align="left">
-<a href="https://codepen.io/ysenchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ysenchev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yordan-enchev-9a0b59345"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yordan enchev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29372217/ysenchev-soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ysenchev-soft" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ysenchev_soft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysenchev_soft" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+<a href="https://codepen.io/ysenchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ysenchev" height="30" width="40" /></a>
 </p>
 
 ### Badges
