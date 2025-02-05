@@ -48,7 +48,4 @@ src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysenchev&" alt="ysenchev" /></p>
 
-<a href="http://www.github.com/YSEnchev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YSEnchev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
