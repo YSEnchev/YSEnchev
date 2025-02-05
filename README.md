@@ -15,6 +15,12 @@ I am an ambitious person with a desire to develop in the field of software engin
 src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysenchev&show_icons=true&locale=en&layout=compact" alt="ysenchev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysenchev&show_icons=true&locale=en" alt="ysenchev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysenchev&" alt="ysenchev" /></p>
+
 ### Skills
 
 
