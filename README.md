@@ -14,7 +14,10 @@ I am an ambitious person with a desire to develop in the field of software engin
 <a href="https://www.github.com/YSEnchev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/YSEnchev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysenchev&label=Profile%20views&color=0e75b6&style=flat" alt="ysenchev" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ### Skills
 
